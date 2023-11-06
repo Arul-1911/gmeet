@@ -63,7 +63,7 @@ const Pricing = () => {
                   </li>
                 </ul>
                 <div className="d-grid">
-                  <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                  <button  className="btn btn-primary text-uppercase">Button</button>
                 </div>
               </div>
             </div>
@@ -122,7 +122,7 @@ const Pricing = () => {
                   </li>
                 </ul>
                 <div className="d-grid">
-                  <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                  <button  className="btn btn-primary text-uppercase">Button</button>
                 </div>
               </div>
             </div>
@@ -181,7 +181,7 @@ const Pricing = () => {
                   </li>
                 </ul>
                 <div className="d-grid">
-                  <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                  <button  className="btn btn-primary text-uppercase">Button</button>
                 </div>
               </div>
             </div>
